@@ -1,0 +1,18 @@
+AI Tools Used in Development
+
+
+I used AI tools (ChatGPT and Cursor.ai) to help with this project in the following ways:
+
+1. Project Setup
+   - To setup a Spring Boot project with ClickHouse?"
+   - Used this to understand the basic structure and dependencies
+
+2. Coding Help
+   - Used Cursor.ai to review my code and suggest improvements
+   - Asked for help with specific implementation challenges
+
+3. Testing
+   - Got suggestions for test cases from ChatGPT
+   - Used Cursor.ai to check for potential bugs
+
+ 
