@@ -15,6 +15,9 @@ A simple tool to transfer data between ClickHouse and CSV files.
    ```
    cd clickhouse-ingestor
    mvnw.cmd spring-boot:run
+   or 
+   mvn spring-boot:run
+
    ```
    (or `./mvnw spring-boot:run` on Linux/Mac)
 
